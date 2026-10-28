@@ -8,7 +8,7 @@ O **Aero-Náutica** é um projeto de desenvolvimento web com temática de turism
 
 O objetivo foi praticar a organização de páginas HTML e a criação de layouts com CSS e **Bootstrap 4**. Trata-se de uma **demonstração acadêmica**, não de uma agência em funcionamento ou de um sistema de compras e reservas.
 
-##Origem e aprendizado
+## Aprendizado
 
 Este projeto faz parte dos meus **primeiros trabalhos de desenvolvimento web**, realizados durante o **curso básico de HTML e CSS no SENAC**.
 
